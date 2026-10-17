@@ -1,0 +1,58 @@
+{
+"Grunt": {
+"name": "Raider",
+"behavior": "Flanking Strafe",
+"hp": 14,
+"dmg": 5,
+"speed": 2.4,
+"range": 3.4,
+"atkCooldown": 1.65,
+"color": "#ff3344",
+"size": 0.65
+},
+"Tank": {
+"name": "Juggernaut",
+"behavior": "Vanguard Rammer",
+"hp": 42,
+"dmg": 9,
+"speed": 1.45,
+"range": 3.6,
+"atkCooldown": 2.15,
+"color": "#ff8800",
+"size": 1.05
+},
+"Swarm": {
+"name": "Stinger",
+"behavior": "Weaving Backline Diver",
+"hp": 8,
+"dmg": 3,
+"speed": 3.5,
+"range": 2.8,
+"atkCooldown": 1.2,
+"color": "#ff00aa",
+"size": 0.48
+},
+"Artillery": {
+"name": "Bombardier",
+"behavior": "Long-Range Siege Kiter",
+"hp": 20,
+"dmg": 8,
+"speed": 1.75,
+"range": 10.5,
+"atkCooldown": 2.4,
+"color": "#aa00ff",
+"size": 0.80
+},
+"Carrier": {
+"name": "Overlord Carrier",
+"behavior": "Stand-Off Swarm Spawner",
+"hp": 58,
+"dmg": 7,
+"speed": 1.3,
+"range": 11.5,
+"atkCooldown": 2.2,
+"spawnCooldown": 5.5,
+"color": "#10b981",
+"size": 1.12
+}
+}

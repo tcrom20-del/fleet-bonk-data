@@ -37,7 +37,7 @@
 "upgradeCost": 4,
 "color": "#f97316",
 "icon": "💥",
-"desc": "+1.6 AoE Blast Radius to all weapons & +20% Weapon Damage per level."
+"desc": "+1.6m AoE Blast Radius to AoE weapons & +20% Weapon Damage per level."
 },
 "EmpDisruptor": {
 "name": "EMP Stun Capacitor",

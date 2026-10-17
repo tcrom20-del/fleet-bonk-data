@@ -21,7 +21,7 @@
 "name": "High-Yield Munitions",
 "icon": "💥",
 "color": "#f97316",
-"desc": "+1.2m AoE Blast Radius & +12% Stun Chance to all weapons."
+"desc": "+1.2m AoE Blast Radius to AoE weapons & +12% Stun Chance to all weapons."
 },
 "FleetSiphon": {
 "name": "Siphon Conduit Grid",

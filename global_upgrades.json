@@ -1,0 +1,38 @@
+{
+"FleetFirepower": {
+"name": "Fleet Fire Control",
+"icon": "🔥",
+"color": "#f43f5e",
+"desc": "+20% Weapon Damage & +12% Attack Speed to all ships in your fleet."
+},
+"FleetDefense": {
+"name": "Aegis Hull Matrix",
+"icon": "🛡️",
+"color": "#0ea5e9",
+"desc": "+30 Max Hull HP & +1 Armor Plating to all ships in your fleet."
+},
+"FleetCrit": {
+"name": "Quantum Telemetry",
+"icon": "🎯",
+"color": "#eab308",
+"desc": "+12% Crit Chance & +30% Crit Damage Multiplier to all ships."
+},
+"FleetOrdnance": {
+"name": "High-Yield Munitions",
+"icon": "💥",
+"color": "#f97316",
+"desc": "+1.2m AoE Blast Radius & +12% Stun Chance to all weapons."
+},
+"FleetSiphon": {
+"name": "Siphon Conduit Grid",
+"icon": "🧛",
+"color": "#ec4899",
+"desc": "+15% Lifesteal Chance & +15% Firing Range to all ships."
+},
+"FleetNanites": {
+"name": "Nanite Repair Swarm",
+"icon": "💚",
+"color": "#10b981",
+"desc": "+6 Hull HP/sec Regeneration & +20 post-wave Repair to all ships."
+}
+}

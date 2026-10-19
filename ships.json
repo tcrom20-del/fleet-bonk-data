@@ -2,16 +2,14 @@
 "Flagship": {
 "name": "Flagship",
 "role": "Supreme Command",
-"cost": 18,
 "hp": 200,
 "armor": 4,
-"moveSpeed": 2.9,
+"moveSpeed": 2.5,
 "weaponSlots": 5,
 "bonusSlots": 3,
-"startingWeapons": ["PulseLaser", "PulseLaser", "FlakBattery", "FlakBattery"],
-"startingWeapon": "PulseLaser",
+"startingWeapons": ["PulseLaser", "FlakBattery", "PulseLaser", "FlakBattery"],
 "color": "#facc15",
-"scale": 0.96,
+"scale": 1.01,
 "desc": "Supreme command vessel with 5 weapon slots (starting with 2 Pulse Lasers & 2 Flak Pods) that stays close to friendly ships. Limit 1 active."
 },
 "Capital": {

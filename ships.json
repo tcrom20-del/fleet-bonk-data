@@ -7,7 +7,7 @@
 "moveSpeed": 2.5,
 "weaponSlots": 5,
 "bonusSlots": 3,
-"startingWeapons": ["PulseLaser", "FlakBattery", "PulseLaser", "FlakBattery"],
+"startingWeapons": ["FlakBattery", "PulseLaser", "PulseLaser", "FlakBattery"],
 "color": "#facc15",
 "scale": 1.01,
 "desc": "Supreme command vessel with 5 weapon slots (starting with 2 Pulse Lasers & 2 Flak Pods) that stays close to friendly ships. Limit 1 active."

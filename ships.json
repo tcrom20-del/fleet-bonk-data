@@ -105,7 +105,7 @@
 }
 }
 "BloodTick": {
-"name": "The "Blood-Tick"",
+"name": "The Blood-Tick",
 "role": "Fast Aggressive Disruptor",
 "hp": 30,
 "armor": 0,
@@ -118,7 +118,7 @@
 "desc": "Fast, aggressive, and entirely focused on disabling prey and getting in close."
 },
 "JunkFly": {
-"name": "The "Junk-Fly"",
+"name": "The Junk-Fly",
 "role": "Automated Defense Drone",
 "hp": 15,
 "armor": 0,
@@ -131,7 +131,7 @@
 "desc": "Cheap, incredibly fragile automated defense drones."
 },
 "IronBastard": {
-"name": "The "Iron Bastard"",
+"name": "The Iron Bastard",
 "role": "Scrap Fortress",
 "hp": 140,
 "armor": 4,
@@ -157,7 +157,7 @@
 "desc": "Stationary orbital defense platform."
 },
 "HiredGun": {
-"name": "The "Hired Gun"",
+"name": "The Hired Gun",
 "role": "Versatile Mercenary",
 "hp": 55,
 "armor": 1,
@@ -170,7 +170,7 @@
 "desc": "Dependable and well-rounded combatant."
 },
 "FreelanceHive": {
-"name": "The "Freelance Hive"",
+"name": "The Freelance Hive",
 "role": "Staging Carrier",
 "hp": 85,
 "armor": 1,
@@ -183,7 +183,7 @@
 "desc": "A deep-space staging ship that avoids the frontline."
 },
 "Needle": {
-"name": "The "Needle"",
+"name": "The Needle",
 "role": "Electronic Warfare Skirmisher",
 "hp": 25,
 "armor": 0,
@@ -196,7 +196,7 @@
 "desc": "An incredibly fast, fragile skirmisher that relies on electronic warfare and blinding speed to survive."
 },
 "HiveMindCarrier": {
-"name": ""Hive-Mind" Heavy Carrier",
+"name": "Hive-Mind Heavy Carrier",
 "role": "Mobile Command Station",
 "hp": 130,
 "armor": 3,
@@ -209,7 +209,7 @@
 "desc": "A sprawling, heavily armored mobile command station designed to flood the sector with Strike Wings."
 },
 "Barracuda": {
-"name": ""Barracuda" Torpedo Skimmer",
+"name": "Barracuda Torpedo Skimmer",
 "role": "Strike Skimmer",
 "hp": 40,
 "armor": 0,
@@ -222,7 +222,7 @@
 "desc": "A lightning-fast, fragile strike craft designed to outmaneuver enemy lines."
 },
 "IroncladGunboat": {
-"name": ""Ironclad" Gunboat",
+"name": "Ironclad Gunboat",
 "role": "Armored Brawler",
 "hp": 95,
 "armor": 3,
@@ -235,7 +235,7 @@
 "desc": "A heavily plated brawler designed to drift between enemy formations and unleash staggering kinetic barrages."
 },
 "Leviathan": {
-"name": ""Leviathan" Omni-Shield Fortress",
+"name": "Leviathan Omni-Shield Fortress",
 "role": "Shield Fortress",
 "hp": 160,
 "armor": 3,

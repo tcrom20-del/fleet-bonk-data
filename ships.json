@@ -22,7 +22,7 @@
 "weaponSlots": 1,
 "bonusSlots": 2,
 "startingWeapon": "PulseLaser",
-"startingModules":
+"startingModules": "EMP Stun Capacitor"
 "color": "#38bdf8",
 "scale": 0.58,
 "desc": "High-velocity interceptor specialized in applying EMP and Slow debuffs to priority enemy targets."
@@ -115,6 +115,7 @@
 "weaponSlots": 1,
 "bonusSlots": 1,
 "startingWeapons": ["PulseLaser"],
+"startingModules": "EMP Stun Capacitor"
 "color": "#ef4444",
 "scale": 0.48,
 "desc": "Fast, aggressive, and entirely focused on disabling prey and getting in close."
@@ -161,8 +162,8 @@
 "HiredGun": {
 "name": "The Hired Gun",
 "role": "Versatile Mercenary",
-"hp": 55,
-"armor": 1,
+"hp": 65,
+"armor": 2,
 "moveSpeed": 4.2,
 "weaponSlots": 2,
 "bonusSlots": 2,
@@ -193,6 +194,7 @@
 "weaponSlots": 1,
 "bonusSlots": 2,
 "startingWeapons": ["PulseLaser"],
+"startingModules": "EMP Stun Capacitor"
 "color": "#a855f7",
 "scale": 0.50,
 "desc": "An incredibly fast, fragile skirmisher that relies on electronic warfare and blinding speed to survive."
@@ -215,8 +217,8 @@
 "role": "Strike Skimmer",
 "hp": 40,
 "armor": 0,
-"moveSpeed": 5.9,
-"weaponSlots": 2,
+"moveSpeed": 6.5,
+"weaponSlots": 1,
 "bonusSlots": 1,
 "startingWeapons": ["Missiles"],
 "color": "#f97316",
@@ -226,11 +228,11 @@
 "IroncladGunboat": {
 "name": "Ironclad Gunboat",
 "role": "Armored Brawler",
-"hp": 95,
-"armor": 3,
-"moveSpeed": 3.3,
-"weaponSlots": 3,
-"bonusSlots": 2,
+"hp": 100,
+"armor": 5,
+"moveSpeed": 3,
+"weaponSlots": 6,
+"bonusSlots": 0,
 "startingWeapons": ["PlasmaCannon", "PulseLaser"],
 "color": "#cbd5e1",
 "scale": 0.82,

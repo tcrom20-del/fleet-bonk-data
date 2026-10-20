@@ -73,5 +73,18 @@
 "stunChance": 0.32,
 "color": "#ff2255",
 "desc": "Twin homing warheads with massive AoE blast radius and concussive Stun."
-}
+},
+"NaniteGun": {
+  "name": "Nanite Gun",
+  "color": "#10b981",
+  "healsAllies": true,
+  "dmg": 10,
+  "range": 16,
+  "shots": 1,
+  "shotsPerSec": 1.6,
+  "critChance": 0.15,
+  "critMult": 1.75,
+  "aoeRadius": 0,
+  "stunChance": 0,
+  "desc": "Projects a targeted beam of cohesive repair nanites to restore hull HP on a damaged friendly ship."
 }

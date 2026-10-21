@@ -30,7 +30,7 @@
 "desc": "+1.6m AoE Blast Radius to AoE weapons & +20% Weapon Damage per level."
 },
 "EmpDisruptor": {
-"name": "EMP Stun Capacitor",
+"name": "Stun Capacitor",
 "color": "#38bdf8",
 "icon": "🌩️",
 "desc": "+20% Stun Chance on hit per level, immobilizing enemies for 1.8s."

@@ -1,64 +1,48 @@
 {
 "ShieldGen": {
 "name": "Shield Generator",
-"cost": 3,
-"upgradeCost": 3,
 "color": "#00ccff",
 "icon": "🛡️",
 "desc": "Barrier that absorbs ALL damage from 3 attacks (+2/lvl). Recharges if no hit is taken for 3s."
 },
 "TargetingAI": {
 "name": "Targeting Matrix",
-"cost": 4,
-"upgradeCost": 4,
 "color": "#ff3366",
 "icon": "🎯",
 "desc": "+15% Crit Chance, +35% Crit Damage & +15% Range per level."
 },
 "Overclock": {
 "name": "Reactor Overclock",
-"cost": 5,
-"upgradeCost": 5,
 "color": "#ffaa00",
 "icon": "⚡",
 "desc": "+35% Attack Speed per level & +1 Extra Projectile Shot to all weapons."
 },
 "VampiricCore": {
 "name": "Vampiric Siphon",
-"cost": 4,
-"upgradeCost": 4,
 "color": "#ec4899",
 "icon": "🧛",
 "desc": "+22% Lifesteal Chance per level (heals ship for 35% of weapon & AoE damage)."
 },
 "ExplosivePayload": {
 "name": "HE Blast Warheads",
-"cost": 4,
-"upgradeCost": 4,
 "color": "#f97316",
 "icon": "💥",
 "desc": "+1.6m AoE Blast Radius to AoE weapons & +20% Weapon Damage per level."
 },
 "EmpDisruptor": {
 "name": "EMP Stun Capacitor",
-"cost": 4,
-"upgradeCost": 4,
 "color": "#38bdf8",
 "icon": "🌩️",
 "desc": "+20% Stun Chance on hit per level, immobilizing enemies for 1.8s."
 },
 "NanoRepair": {
 "name": "Nano-Repair Bay",
-"cost": 4,
-"upgradeCost": 4,
 "color": "#22ff66",
 "icon": "🔧",
 "desc": "Repairs +6 Hull HP/sec during combat and +20 HP after each wave."
 },
 "SalvageDrone": {
 "name": "Chrono Accelerator",
-"cost": 4,
-"upgradeCost": 4,
 "color": "#ffd700",
 "icon": "⏱️",
 "desc": "+25% Attack Speed, +10% Crit Chance & +10% Stun Chance per level."

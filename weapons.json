@@ -1,8 +1,6 @@
 {
   "PulseLaser": {
     "name": "Pulse Laser",
-    "cost": 3,
-    "upgradeCost": 3,
     "dmg": 6,
     "range": 14,
     "shots": 1,
@@ -16,8 +14,6 @@
   },
   "PlasmaCannon": {
     "name": "Plasma Cannon",
-    "cost": 4,
-    "upgradeCost": 4,
     "dmg": 13,
     "range": 10,
     "shots": 1,
@@ -31,8 +27,6 @@
   },
   "Railgun": {
     "name": "Gauss Railgun",
-    "cost": 5,
-    "upgradeCost": 5,
     "dmg": 16,
     "range": 26,
     "shots": 1,
@@ -46,8 +40,6 @@
   },
   "FlakBattery": {
     "name": "Flak Swarm Pod",
-    "cost": 5,
-    "upgradeCost": 4,
     "dmg": 5,
     "range": 13,
     "shots": 3,
@@ -61,8 +53,6 @@
   },
   "Missiles": {
     "name": "Valkyrie Missiles",
-    "cost": 6,
-    "upgradeCost": 5,
     "dmg": 11,
     "range": 20,
     "shots": 2,
@@ -76,8 +66,6 @@
   },
   "NaniteGun": {
     "name": "Nanite Gun",
-    "cost": 4,
-    "upgradeCost": 4,
     "healsAllies": true,
     "dmg": 0.1,
     "range": 16,
